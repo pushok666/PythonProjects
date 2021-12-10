@@ -1,7 +1,7 @@
 from PyQt5.QtWidgets import QPushButton
 
 def Button_Click():
-    print("fff")
+    print("ffff")
 
 class MyAnswerButton(QPushButton):
     def __init__(self):
